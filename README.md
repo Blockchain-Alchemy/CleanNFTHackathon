@@ -1,0 +1,2 @@
+# CleanNFTHackathon
+CleanNFT Hackathon
